@@ -4,9 +4,11 @@
     box-sizing: border-box;
 }
 
+/* #f2f3f5 */
+
 :root{
     --white:#fff;
-    --background: #f2f3f5;
+    --background: #313866;
     --gray-line: #dcdde0;
     --text: #666666;
     --title: #2e384d;
