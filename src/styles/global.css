@@ -7,12 +7,12 @@
 /* #f2f3f5 */
 
 :root{
-    --white:#1b2a41;
-    --background: #0c1821;
+    --white:#44475a;
+    --background: #282a36;
     --gray-line: #dcdde0;
-    --text: #e4e4e4;
-    --title: #e4e4e4;
-    --red: #e83f5b;
+    --text: #f8f8f2;
+    --title: #f8f8f2;
+    --red: #ff79c6;
     --green: #4cd62b;
     --blue: #5965e0;
     --blue-dark: #4953b8;
